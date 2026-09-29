@@ -1,0 +1,5 @@
+node_modules/
+uploads/*.mp4
+uploads/*.mov
+uploads/*.m4v
+.env
